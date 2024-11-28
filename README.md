@@ -78,7 +78,8 @@ STEPS
  🇺🇸the greeting phrase will be translated in ASL.
 
 
-![aslcover](https://github.com/user-attachments/assets/d2283f22-e8c4-4ee9-8202-0f9db4cc9c64)
+![DNDCOVER](https://github.com/user-attachments/assets/45e57324-7136-404e-aeb8-de3537838d58)
+
 
 LIBRAIRIES
 -----------
@@ -147,3 +148,9 @@ Run the program python script project.py with python.
 Test the program python script test_project.py with pytest.
 
 ## pytest test_project.py
+
+# THANKS TO :
+### American Sign Language https://www.signasl.org/
+### SIGNING SAVVY https://www.signingsavvy.com/
+### START ASL https://www.startasl.com/
+### SIGN UP MEDIA https://www.signupmedia.com/
