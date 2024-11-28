@@ -1,6 +1,10 @@
 # 🤟🏽 Deaf_Not_Dead
 
-![Capture d’écran 2024-02-22 à 09 20 19](https://github.com/user-attachments/assets/85d86f53-c233-46d3-8545-f61d22bf4bc6)  
+![LOGO](https://github.com/user-attachments/assets/85d86f53-c233-46d3-8545-f61d22bf4bc6)  
+
+https://youtu.be/cUp5QKGdM64
+
+
 
 ------------------------------------------------
 
@@ -71,7 +75,7 @@ STEPS
 
 ### Step 3: Enjoy the asl video if your words == greeting template.
 
- 🇺🇸the greeting phrase will be translated in ASL , and scene from Wednesday is launched.
+ 🇺🇸the greeting phrase will be translated in ASL.
 
 
 ![aslcover](https://github.com/user-attachments/assets/d2283f22-e8c4-4ee9-8202-0f9db4cc9c64)

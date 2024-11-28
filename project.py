@@ -1,5 +1,10 @@
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+
+
 import speech_recognition as sr
 import cv2
+
 
 def main():
     greeting_template, spoken_text = process_audio_and_text()
@@ -63,7 +68,7 @@ def compare_texts(greeting_template, spoken_text):
         return True
     return False
 
-video_path = "/Users/achmab/Desktop/cs50_fp copie2/deafNotDead/VIDEO/america_greeting_asl.mp4"
+video_path = "/Users/achmab/Desktop/CS50P_DND/VIDEO/hey_asl.mp4"
 
 def play_video(video_path):
     cap = cv2.VideoCapture(video_path)
